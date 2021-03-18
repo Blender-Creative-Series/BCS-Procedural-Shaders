@@ -1,6 +1,6 @@
 # The Blender 2.9 Creative Series: 3D Modelling for Beginners
 
-## Section _: Procedural Shaders
+## Section 8: Procedural Materials In Blender
 
 #### You will be able to use and navigate the Shading workspace, have a deep understanding of several key nodes, and will be able to create shaders both from existing textures as well as from scratch using maths!
 ---
