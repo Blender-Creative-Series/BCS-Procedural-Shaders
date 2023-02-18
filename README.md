@@ -1,4 +1,4 @@
-# The Blender 2.9 Creative Series: 3D Modelling for Beginners
+# The Blender Creative Series: 3D Modelling for Beginners
 
 ## Section 8: Procedural Materials In Blender
 
